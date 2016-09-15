@@ -22,6 +22,11 @@
 
     </android.support.design.widget.AppBarLayout>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="adad"/>
+
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rec"
         android:layout_width="match_parent"
